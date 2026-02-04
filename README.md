@@ -1,6 +1,3 @@
-### Olá! Eu sou o João Paulo
-
-- 🔭 Apaixonado por tecnologia
 <div align="center">
   <a href="https://github.com/joaocostadev">
 
